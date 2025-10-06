@@ -149,8 +149,10 @@ void Error_Handler(void)
 
 
 ## Output  :
-![alt text](image.png)
- ![alt text](image-1.png)
+![WhatsApp Image 2025-09-29 at 2 43 06 PM](https://github.com/user-attachments/assets/89c44f29-5b1c-46d4-a31a-119097521894)
+![WhatsApp Image 2025-09-29 at 2 43 06 PM (1)](https://github.com/user-attachments/assets/0f8543b0-1ffe-4f63-9549-ed86cb6823fb)
+
+
 ## layout of the circuit 
  ![alt text](image-2.png)
 ## Result :
